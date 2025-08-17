@@ -20,9 +20,10 @@ Instructions and details will be provided as the project develops.
 EmotiCore is a system that brings emotion into digital interaction, making technology more human and engaging.
 
 ## To Try it
-Go To https://clipzone-d4451.web.app/ Or Download App For windows (bat file) Or Android App File
+Go To https://quatchireai.giize.com/ Or Download App For windows (bat file) Or Android App File
 
 ## License
 © 2025 INZIX. All rights reserved.
+
 
 
